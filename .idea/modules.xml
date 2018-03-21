@@ -4,10 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CI_CH_10_Challenges.iml" filepath="$PROJECT_DIR$/CI_CH_10_Challenges.iml" />
       <module fileurl="file://C:\Users\Ian Bilek\Desktop\android project chapter 9\CI_CH_10_Challenges\.idea\CI_CH_10_Challenges.iml" filepath="C:\Users\Ian Bilek\Desktop\android project chapter 9\CI_CH_10_Challenges\.idea\CI_CH_10_Challenges.iml" />
-      <module fileurl="file://C:\CIDM4385\ION_CHPT_10\CI_CH_10_Challenges\CI_CH_10_Challenges\CriminalIntent.iml" filepath="C:\CIDM4385\ION_CHPT_10\CI_CH_10_Challenges\CI_CH_10_Challenges\CriminalIntent.iml" />
       <module fileurl="file://C:\Users\Ian Bilek\Desktop\android project chapter 9\CI_CH_10_Challenges\CriminalIntent.iml" filepath="C:\Users\Ian Bilek\Desktop\android project chapter 9\CI_CH_10_Challenges\CriminalIntent.iml" />
+      <module fileurl="file://C:\CIDM4385\ION_CHPT_10\CI_CH_10_Challenges\CI_CH_10_Challenges\CriminalIntent.iml" filepath="C:\CIDM4385\ION_CHPT_10\CI_CH_10_Challenges\CI_CH_10_Challenges\CriminalIntent.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://C:\CIDM4385\ION_CHPT_10\CI_CH_10_Challenges\CI_CH_10_Challenges\app\app.iml" filepath="C:\CIDM4385\ION_CHPT_10\CI_CH_10_Challenges\CI_CH_10_Challenges\app\app.iml" />
     </modules>
   </component>
 </project>
